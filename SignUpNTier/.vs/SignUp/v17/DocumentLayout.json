@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12816\\Documents\\SignUpEntity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1708DD-4E91-4C00-ADC4-130A37A1BED5}|DALL\\DALL.csproj|c:\\users\\12816\\documents\\signupentity\\dall\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB1708DD-4E91-4C00-ADC4-130A37A1BED5}|DALL\\DALL.csproj|solutionrelative:dall\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\SignUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Controllers\\SignUpController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|c:\\users\\12816\\documents\\signupentity\\signup\\models\\signupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:signup\\models\\signupcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Models\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Models\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB1708DD-4E91-4C00-ADC4-130A37A1BED5}|DALL\\DALL.csproj|c:\\users\\12816\\documents\\signupentity\\dall\\dall.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EB1708DD-4E91-4C00-ADC4-130A37A1BED5}|DALL\\DALL.csproj|solutionrelative:dall\\dall.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\AllUsers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Views\\SignUp\\AllUsers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\SignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Views\\SignUp\\SignUp.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Content\\Site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Content\\Site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5674412-F734-41C6-A128-4749D50EC6D2}|SignUp\\SignUp.csproj|solutionrelative:SignUp\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SignUpContext.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Models\\SignUpContext.cs",
+              "RelativeDocumentMoniker": "SignUp\\Models\\SignUpContext.cs",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Models\\SignUpContext.cs",
+              "RelativeToolTip": "SignUp\\Models\\SignUpContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:32:10.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DALL",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj",
+              "RelativeDocumentMoniker": "DALL\\DALL.csproj",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj",
+              "RelativeToolTip": "DALL\\DALL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-03T13:30:56.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\SignUp.cs",
+              "RelativeDocumentMoniker": "DALL\\SignUp.cs",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\SignUp.cs",
+              "RelativeToolTip": "DALL\\SignUp.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T13:27:19.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Web.config",
+              "RelativeDocumentMoniker": "SignUp\\Web.config",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Web.config",
+              "RelativeToolTip": "SignUp\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-02T04:31:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Content\\Site.css",
+              "RelativeDocumentMoniker": "SignUp\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Content\\Site.css",
+              "RelativeToolTip": "SignUp\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-01T04:18:00.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "SignUp\\Views\\SignUp\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\SignUp.cshtml",
+              "RelativeToolTip": "SignUp\\Views\\SignUp\\SignUp.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T03:43:22.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\AllUsers.cshtml",
+              "RelativeDocumentMoniker": "SignUp\\Views\\SignUp\\AllUsers.cshtml",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Views\\SignUp\\AllUsers.cshtml",
+              "RelativeToolTip": "SignUp\\Views\\SignUp\\AllUsers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T03:47:36.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SignUp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SignUp\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:47:24.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Models\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "SignUp\\Models\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Models\\SignUpModel.cs",
+              "RelativeToolTip": "SignUp\\Models\\SignUpModel.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:43:12.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\SignUpController.cs",
+              "RelativeDocumentMoniker": "SignUp\\Controllers\\SignUpController.cs",
+              "ToolTip": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\Controllers\\SignUpController.cs",
+              "RelativeToolTip": "SignUp\\Controllers\\SignUpController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:40:53.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
