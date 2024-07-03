@@ -1,5 +1,0 @@
-C:\Users\12816\Downloads\SignUpEntity\DAL\obj\Debug\net8.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\12816\Downloads\SignUpEntity\DAL\obj\Debug\net8.0\DAL.AssemblyInfoInputs.cache
-C:\Users\12816\Downloads\SignUpEntity\DAL\obj\Debug\net8.0\DAL.AssemblyInfo.cs
-C:\Users\12816\Downloads\SignUpEntity\DAL\obj\Debug\net8.0\DAL.csproj.CoreCompileInputs.cache
-C:\Users\12816\Downloads\SignUpEntity\DAL\obj\Debug\net8.0\DAL.csproj.AssemblyReference.cache

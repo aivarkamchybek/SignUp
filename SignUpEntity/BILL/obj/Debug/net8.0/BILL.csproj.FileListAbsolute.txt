@@ -1,4 +1,0 @@
-C:\Users\12816\Downloads\SignUpEntity\BILL\obj\Debug\net8.0\BILL.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\12816\Downloads\SignUpEntity\BILL\obj\Debug\net8.0\BILL.AssemblyInfoInputs.cache
-C:\Users\12816\Downloads\SignUpEntity\BILL\obj\Debug\net8.0\BILL.AssemblyInfo.cs
-C:\Users\12816\Downloads\SignUpEntity\BILL\obj\Debug\net8.0\BILL.csproj.CoreCompileInputs.cache
