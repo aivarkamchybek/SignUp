@@ -1,0 +1,72 @@
+﻿@using System.Web.Mvc.Html
+@model Domain.Entities.User
+
+<div class="modal fade @(ViewBag.ShowModal != null && ViewBag.ShowModal ? "show" : "")" id="signUpModal" tabindex="1" role="dialog" aria-labelledby="signUpModalLabel" aria-hidden="@(ViewBag.ShowModal != null && ViewBag.ShowModal ? "false" : "true")" style="display:@(ViewBag.ShowModal != null && ViewBag.ShowModal ? "block" : "none");">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="signUpModalLabel">Register as User</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                @using (Html.BeginForm("SignUp", "SignUp", FormMethod.Post, new { @enctype = "multipart/form-data", @class = "form-horizontal", role = "form" }))
+                {
+                    @Html.AntiForgeryToken()
+
+
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Username, new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.Username, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Username, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Email, new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.TextBoxFor(m => m.Email, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Email, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.Password, new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.Password, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        @Html.LabelFor(m => m.ConfirmPassword, new { @class = "control-label col-md-4" })
+                        <div class="col-md-8">
+                            @Html.PasswordFor(m => m.ConfirmPassword, new { @class = "form-control" })
+                            @Html.ValidationMessageFor(m => m.ConfirmPassword, "", new { @class = "text-danger" })
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-offset-4 col-md-8">
+                            <button id="signup-btn" type="submit" class="btn btn-primary">Sign up</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<style>
+    .modal-dialog {
+        max-width: 500px;
+    }
+
+    .text-center {
+        text-align: center;
+    }
+</style>

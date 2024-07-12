@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj": {}
+    "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\DALL\\DALL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj": {
+    "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\DALL\\DALL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj",
+        "projectUniqueName": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\DALL\\DALL.csproj",
         "projectName": "DALL",
-        "projectPath": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\DALL.csproj",
+        "projectPath": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\DALL\\DALL.csproj",
         "packagesPath": "C:\\Users\\12816\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\12816\\Documents\\SignUpEntity\\DALL\\obj\\",
+        "outputPath": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\DALL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\12816\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\SignUp.csproj": {
-                "projectPath": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\SignUp.csproj"
+              "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\SignUp\\SignUp.csproj": {
+                "projectPath": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\SignUp\\SignUp.csproj"
               }
             }
           }
@@ -75,11 +75,11 @@
         }
       }
     },
-    "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\SignUp.csproj": {
+    "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\SignUp\\SignUp.csproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\SignUp.csproj",
+        "projectUniqueName": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\SignUp\\SignUp.csproj",
         "projectName": "SignUp",
-        "projectPath": "C:\\Users\\12816\\Documents\\SignUpEntity\\SignUp\\SignUp.csproj",
+        "projectPath": "C:\\Users\\12816\\Documents\\GitHub\\SignUp\\SignUpNTier\\SignUp\\SignUp.csproj",
         "frameworks": {
           "net48": {
             "projectReferences": {}

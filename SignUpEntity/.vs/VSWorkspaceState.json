@@ -2,10 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\SignUp",
-    "\\SignUp\\App_Data",
     "\\SignUp\\Controllers",
-    "\\SignUp\\DAL"
+    "\\SignUp\\DAL",
+    "\\SignUp\\Models"
   ],
-  "SelectedNode": "\\SignUp.sln",
+  "SelectedNode": "\\SignUp\\Controllers\\SignUpController.cs",
   "PreviewInSolutionExplorer": false
 }
